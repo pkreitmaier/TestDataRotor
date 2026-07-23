@@ -11,7 +11,6 @@ import matplotlib.pyplot as plt
 # Example:
 # DATA_FILE = Path(r"C:\Users\YourName\Data\TestDataRotor.csv")
 # --------------------------------------------------------------------
-DATA_FILE = Path(r"C:\Users\YourName\Data\TestDataRotor.csv")
 #######################################################
 # load data
 def load_data(filepath):
